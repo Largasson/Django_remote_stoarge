@@ -1,0 +1,4 @@
+/.env
+/.venv/
+/.idea/
+ yandex_cloud/__pycache__/
